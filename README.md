@@ -7,6 +7,7 @@
 ### Languages
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Golang](https://img.shields.io/badge/golang-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 ### Frameworks
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
